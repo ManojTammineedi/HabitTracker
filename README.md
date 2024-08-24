@@ -35,7 +35,7 @@ The Habit Tracker App is a user-friendly mobile application that allows users to
 ### 1. Architecture
 - **Clean Architecture**: The app is structured following the principles of clean architecture to ensure maintainability and scalability.
 - **State Management**: Riverpod is used for state management, providing a reactive and robust solution.
-![Architecture Diagram](https://github.com/ManojTammineedi/HabitTracker/blob/main/lib/images/Architecture.jpg?raw=true)
+![Architecture Diagram](https://github.com/ManojTammineedi/HabitTracker/blob/main/lib/images/Architecture.png?raw=true)
 
 ### 2. Responsiveness
 - **Cross-Platform Compatibility**: The app is responsive and works seamlessly across different screen sizes and orientations on both iOS and Android.
