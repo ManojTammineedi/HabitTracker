@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "388543729869",
+    "project_id": "trackmate-5d2ab",
+    "storage_bucket": "trackmate-5d2ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:388543729869:android:af12b112f3ecb657d11984",
+        "android_client_info": {
+          "package_name": "com.example.trackmate"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVsmBm4CERZMrnyTTn_loSDnlz0LHw0yI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
