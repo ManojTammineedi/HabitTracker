@@ -28,17 +28,14 @@ The Habit Tracker App is a user-friendly mobile application that allows users to
 ### 6. Statistics
 - **Charts and Graphs**: The Statistics page displays bar charts and other visualizations to help users analyze their habit trends and performance.
 
-### 7. Additional Features (Optional)
-- **Dark Mode**: Users can switch between light and dark themes for a comfortable viewing experience.
-- **Localization**: Support for multiple languages to cater to a diverse user base.
-- **Social Sharing**: Users can share their progress on social media platforms.
-- **Data Backup**: Cloud storage for backing up data and synchronizing it across multiple devices.
+
 
 ## Technical Details
 
 ### 1. Architecture
 - **Clean Architecture**: The app is structured following the principles of clean architecture to ensure maintainability and scalability.
 - **State Management**: Riverpod is used for state management, providing a reactive and robust solution.
+![Architecture Diagram](https://github.com/ManojTammineedi/HabitTracker/blob/main/lib/images/Architecture.jpg?raw=true)
 
 ### 2. Responsiveness
 - **Cross-Platform Compatibility**: The app is responsive and works seamlessly across different screen sizes and orientations on both iOS and Android.
@@ -56,4 +53,22 @@ The Habit Tracker App is a user-friendly mobile application that allows users to
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/habit-tracker-app.git
+   git clone https://github.com/ManojTammineedi/HabitTracker.git
+2. Navigate to the project directory:
+    ```bash
+    cd habit-tracker-app
+3. Install dependencies:
+    ```bash
+    flutter pub get
+4. Configure Firebase:
+- Download the google-services.json file for Android and GoogleService-Info.plist file for iOS from your Firebase project.
+- Place these files in the appropriate directories (android/app and ios/Runner).
+
+5. Running the App
+- Run the app on your desired platform:
+     ```bash
+     flutter run
+### Demo
+- **Video Walkthrough:** A short video walkthrough highlighting the main features and user flow is available  [check here](https://drive.google.com/file/d/1z08tiocp5PGTfQaxcyhVo32l5aWrI_SJ/view?usp=sharing)
+### License
+ This project is licensed under the MIT License - see the LICENSE file for details.
