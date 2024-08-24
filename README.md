@@ -69,6 +69,6 @@ The Habit Tracker App is a user-friendly mobile application that allows users to
      ```bash
      flutter run
 ### Demo
-- **Video Walkthrough:** A short video walkthrough highlighting the main features and user flow is available  [check here](https://drive.google.com/file/d/1z08tiocp5PGTfQaxcyhVo32l5aWrI_SJ/view?usp=sharing)
+- **Video Walkthrough:** A short video walkthrough highlighting the main features and user flow is available  [check here](https://drive.google.com/file/d/17zDkWiR90kO3H11QvbJuUf1ksC_tvZDx/view?usp=sharing)
 ### License
  This project is licensed under the MIT License - see the LICENSE file for details.
